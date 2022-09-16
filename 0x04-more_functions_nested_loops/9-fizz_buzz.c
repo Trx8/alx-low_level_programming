@@ -1,7 +1,8 @@
 #include <stdio.h>
 
  /**
-  * main - prints the numbber from 1 to 100, but for multiples of three
+  * main - Entry point
+  * prints the numbber from 1 to 100, but for multiples of three
   * print Fizz instead of the number and for multiples of five print Buzz.
   * for numbers which are multiples of both three and five print FizzBuzz.
   * Return: Always 0 (success)
